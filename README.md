@@ -1,4 +1,4 @@
-# robotic-traveler: A coding challenge
+# robotic-traveler: A interview challenge
 There are two robotic travelers on a rectangle surface. And we control them via this robotic traveler app.
 We send commands that surface corner, robot's location, robot's direction and robot's route pattern.
 
